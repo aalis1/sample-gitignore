@@ -1,4 +1,4 @@
-# sample-gitignore
+# sample-gitignore 
 
 # Logs
 logs
